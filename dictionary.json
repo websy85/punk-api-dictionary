@@ -1,1 +1,1 @@
-{"name":"punk-api-dictionary","display_name":"punk-api-dictionary","owner":"websy85","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"577cf6f8d186c71100618132"}
+{"name":"punk-api-dictionary","display_name":"punk-api-dictionary","owner":"websy85","auth_method":"Basic","auth_options":{},"paging_method":"Pages","paging_options":{"page_url_parameter":"page","total_pages":""},"tables":[],"id":"577cf6f8d186c71100618132","base_endpoint":"v1","data_element":""}
